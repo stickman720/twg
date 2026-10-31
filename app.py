@@ -5,7 +5,7 @@ from telegram.ext import (Application, CommandHandler, CallbackQueryHandler,
                           MessageHandler, ContextTypes, Defaults, filters)
 
 # ===================== تنظیمات (اینجا وارد کنید) =====================
-BOT_TOKEN = "8923204138:AAFs1fhd0rxe2xR1kPvdiZ_hoIHN4W_QxmY"
+BOT_TOKEN = "8706024591:AAFIknFuh15UyokB64cM51uDJ3H1jkNU3vE"
 CHANNEL_1 = "@warbotnews"   # کانال ۱: پیام‌های جهانی و بیانیه‌ها (مثل -1001234567890 یا @name)
 CHANNEL_2 = "@warbotwarrroom"   # کانال ۲: پیام‌های لشکرکشی
 ADMIN_USERNAME = "alioakII"   # حروف I بزرگ و l کوچک را با دقت چک کنید (یا از ADMIN_ID استفاده کنید)
