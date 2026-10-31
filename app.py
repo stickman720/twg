@@ -4,6 +4,7 @@ from telegram.error import BadRequest
 from telegram.ext import (Application, CommandHandler, CallbackQueryHandler,
                           MessageHandler, ContextTypes, Defaults, filters)
 
+
 # ===================== تنظیمات (اینجا وارد کنید) =====================
 BOT_TOKEN = "8706024591:AAFIknFuh15UyokB64cM51uDJ3H1jkNU3vE"
 CHANNEL_1 = "@warbotnews"   # کانال ۱: پیام‌های جهانی و بیانیه‌ها (مثل -1001234567890 یا @name)
